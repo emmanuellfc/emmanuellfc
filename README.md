@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a physicists and:
+
+- 🔭 I’m currently working on my masters degre, I'm interested in soft condensed matter.
+- 🌱 I’m currently learning Machine Learning, Julia, C++, and some other things that someday could be useful.
+
+
 <!--
 **emmanuellfc/emmanuellfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
