@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hello!
 
 I'm a physicists and:
 
-- 🔭 I’m currently working on my PhD degree, I'm a first year student at Tufts University, and I'm interested in soft condensed matter, but also in some weird mathematics, such as differential forms.
-- 🌱 I’m currently learning Machine Learning, Julia, C, C++, and some other things that someday could be useful.
+- I’m currently working on my PhD degree, I'm a first year student at Tufts University, and I'm interested in soft condensed matter.
+- I'm also interested in pure mathematics, such as topolofy, differential geometry and differential forms.
+- This is a place when you can find some of my current projects and look at my learning path as well.
+- Enjoy!
 
 
 <!--
